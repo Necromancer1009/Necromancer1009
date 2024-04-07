@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### Most Used Languages 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
