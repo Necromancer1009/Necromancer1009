@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2)](https://github.com/Necromancer1009/github-readme-stats)
 
 ### Most Used Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=dark"
@@ -45,5 +44,5 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true" />
 </picture>
