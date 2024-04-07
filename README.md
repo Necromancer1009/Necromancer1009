@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=English-to-Bengali-Translator-Model-using-Glove-and-Seq2seq&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=Poetry-Generator-using-Deep-Learning-Approach&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=CIFAR-Classification-using-CNN-in-PyTorch&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+
 
 ### Most Used Languages 
 <picture>
