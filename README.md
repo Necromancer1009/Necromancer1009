@@ -15,9 +15,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,c,py,html,css,js,bootstrap,tailwind,java,blender,figma,debian,git,ai,kali,linux,mint,ps,pytorch,sklearn,tensorflow,ubuntu,unreal,vscode&perline=8" />
   </a>
 </p>
+<br></br>
 
 ### Github Stats
-<p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark"
@@ -29,6 +29,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true" />
 </picture>
-</p>
 
 
