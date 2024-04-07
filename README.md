@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 -->
 ### Hi there 👋
-- 🔭 I’m currently working on Deep Learning
-- 🌱 I’m currently learning Natural Language Processing
+- 🔭 I’m currently working on NLP & Computer Vision
+- 🌱 I’m currently learning Deep Learning & AI
 - 👯 I’m looking to collaborate on AI/ML projects
 - 📫 Email : sayan20012002@gmail.com
 
