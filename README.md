@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </picture>
 
 ### Pinned 📌
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rancho2002&layout=compact&theme=dark)](https://github.com/rancho2002/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=BiLSTM-Image-Classification)](https://github.com/Necromancer1009/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=English-to-Bengali-Translator-Model-using-Glove-and-Seq2seq)](https://github.com/Necromancer1009/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2)](https://github.com/Necromancer1009/github-readme-stats)
@@ -37,3 +36,14 @@ Here are some ideas to get you started:
 
 ### Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true" />
+</picture>
