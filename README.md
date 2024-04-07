@@ -8,14 +8,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI/ML projects
 - 📫 Email : sayan20012002@gmail.com
 
-### ⚡Programming Languages & Tools 🌐
+### Programming Languages & Tools ⌨️
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,c,py,html,css,js,bootstrap,tailwind,java,blender,figma,debian,git,ai,kali,linux,mint,ps,pytorch,sklearn,tensorflow,ubuntu,unreal,vscode&perline=8" />
   </a>
 </p>
 
-### Github Stats
+### Github Stats 📑
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark"
@@ -28,4 +28,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true" />
 </picture>
 
+### Pinned 📌
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rancho2002&layout=compact&theme=dark)](https://github.com/rancho2002/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=BiLSTM-Image-Classification)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=English-to-Bengali-Translator-Model-using-Glove-and-Seq2seq)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2)](https://github.com/Necromancer1009/github-readme-stats)
 
+### Most Used Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact)
