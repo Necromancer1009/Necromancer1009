@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ### Github Stats 📑
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" />
 </picture>
 
 ### Pinned 📌
