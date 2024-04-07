@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Github Stats
-
-<picture align="center">
+<p align="center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -28,5 +28,6 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true" />
 </picture>
+</p>
 
 
