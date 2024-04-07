@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Sayan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Necromancer1009/github-readme-stats#gh-dark-mode-only)
-[![Sayan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Necromancer1009/github-readme-stats#gh-light-mode-only)
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true" />
+</picture>
+
 
