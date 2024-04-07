@@ -3,6 +3,7 @@
 Here are some ideas to get you started:
 -->
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat&abbreviated=true)
 - 🔭 I’m currently working on NLP & Computer Vision
 - 🌱 I’m currently learning Deep Learning & AI
 - 👯 I’m looking to collaborate on AI/ML projects
