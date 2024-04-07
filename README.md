@@ -15,7 +15,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,c,py,html,css,js,bootstrap,tailwind,java,blender,figma,debian,git,ai,kali,linux,mint,ps,pytorch,sklearn,tensorflow,ubuntu,unreal,vscode&perline=8" />
   </a>
 </p>
-<br></br>
 
 ### Github Stats
 <p>
