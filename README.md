@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ### Github Stats 📑
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon='github'&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon='github'"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon='github'" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 
 ### Pinned 📌
