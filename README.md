@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 </picture>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&repo=github-readme-stats)](https://github.com/Necromancer1009/github-readme-stats)
