@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <br></br>
 
 ### ⚡Programming Languages & Tools 🌐
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,c,py,html,css,js,bootstrap,tailwind,java,blender,figma,debian,git,ai,kali,linux,mint,ps,pytorch,sklearn,tensorflow,ubuntu,unreal,vscode&perline=8" />
   </a>
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br></br>
 
 ### Github Stats
-<p align="center">
+<p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&show_icons=true&theme=dark"
