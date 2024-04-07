@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI/ML projects
 - 📫 Email : sayan20012002@gmail.com
 
-###⚡Programming Languages & Tools 🌐
+### ⚡Programming Languages & Tools 🌐
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,c,py,html,css,js,bootstrap,tailwind,java,blender,figma,debian,git,ai,kali,linux,mint,ps,pytorch,sklearn,tensorflow,ubuntu,unreal,vscode&perline=8" />
