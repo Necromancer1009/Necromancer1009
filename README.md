@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ### Github Stats 📑
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=6"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=6"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10" />
 </picture>
 
 ### Pinned 📌
@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 ### Most Used Languages 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=transparent&border_radius=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=transparent&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=10" />
 </picture>
