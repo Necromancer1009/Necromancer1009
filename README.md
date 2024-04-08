@@ -19,23 +19,23 @@ Here are some ideas to get you started:
 ### Github Stats 📑
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=15"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=15"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=15" />
 </picture>
 
 ### Pinned 📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=6&repo=BiLSTM-Image-Classification&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=6&repo=English-to-Bengali-Translator-Model-using-Glove-and-Seq2seq&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=6&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=6&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=6&repo=Poetry-Generator-using-Deep-Learning-Approach&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=6&repo=CIFAR-Classification-using-CNN-in-PyTorch&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=15&repo=BiLSTM-Image-Classification&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=15&repo=English-to-Bengali-Translator-Model-using-Glove-and-Seq2seq&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=15&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=15&repo=jigsaw-toxic-comment-classification-using-CNN-Glove-and-TF2&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=15&repo=Poetry-Generator-using-Deep-Learning-Approach&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=15&repo=CIFAR-Classification-using-CNN-in-PyTorch&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
 
 
 ### Most Used Languages 
