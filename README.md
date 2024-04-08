@@ -29,18 +29,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Necromancer1009&border_radius=15&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=transparent&border_radius=15"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=15"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=15" />
-</picture>
-
 ### Pinned 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=12&repo=BiLSTM-Image-Classification&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Necromancer1009&border_radius=12&repo=English-to-Bengali-Translator-Model-using-Glove-and-Seq2seq&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
