@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 ### Most Used Languages 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=transparent&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&theme=transparent&border_radius=15"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=15"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1009&layout=compact&show_icons=true&border_radius=15" />
 </picture>
