@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### Programming Languages & Tools ⌨️
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,py,pytorch,tensorflow,sklearn,java,git,html,css,js,bootstrap,tailwind,unreal,blender,ae,ai,ps,figma,linux,debian,mint,ubuntu,kali&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,py,pytorch,tensorflow,sklearn,java,git,html,css,js,bootstrap,tailwind,latex,mysql,unreal,blender,ae,ai,ps,figma,linux,debian,mint,ubuntu,kali&perline=8" />
   </a>
 </p>
 
